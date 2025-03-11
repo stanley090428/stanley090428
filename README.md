@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stanley090428
-- 👀 I’m interested in art, literature, coding, basically a lot of thing
-- 🌱 I’m currently learning Javascript and HTML
+- 👀 I’m interested in art, literature, coding, basically a lot of things
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on nothin :/
 - 📫 How to reach me = no.
 
